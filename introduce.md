@@ -1,13 +1,18 @@
 ## 안현서
+
 ### 취미🐸
-- 누워있기
-- 카톡하기
-- 보리 괴롭히기
+```js
+const hobby = ["누워있기","카톡하기", "보리 놀아주기"];
+const spec = ["집에 가만히 있기", "보리 놀아주기"];
 
-### 특기🐹
-- 집에 가만히 있기
-- 보리 놀아주기
-
+<<<<<<< HEAD
+const hyun = (arr) => {
+    for (const a of arr){
+        console.log(a);
+}
+hyun(hobby);
+hyun(spec);
+=======
 
 ```cpp
 #include <iostream>
@@ -32,6 +37,7 @@ int main() {
   }
 }
 
+>>>>>>> 052421f62f52e3a85a4a65cf936123f6e4dd7b33
 ```
 ---
 
