@@ -11,7 +11,7 @@ const hyun = (arr) => {
 }
 hyun(hobby);
 hyun(spec);
-
+```
 
 ```cpp
 #include <iostream>
