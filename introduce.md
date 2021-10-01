@@ -8,6 +8,31 @@
 - 집에 가만히 있기
 - 보리 놀아주기
 
+
+```cpp
+#include <iostream>
+
+using namespace std;
+
+int main() {
+  string name = "An Hyeon Seo";
+  string hobbies[3] = {"누워있기", "카톡하기", "보리 괴롭히기"};
+  string specialties[2] = {"집에 가만히 있기", "보리 놀아주기"};
+
+  cout << "Name: " << name << endl;
+  
+  cout << "Hobbies" << endl;
+  for (int i = 0; i < 3; ++i) {
+    cout << "- " << hobbies[i] << endl;
+  }
+
+  cout << "Specialties" << endl;;
+  for (int i = 0; i < 2; ++i) {
+    cout << "- " << specialties[i] << endl;
+  }
+}
+
+```
 ---
 
 ## 여은성
