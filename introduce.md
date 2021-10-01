@@ -16,6 +16,12 @@
 - 많이 먹기
 - 운동
 
+```python
+def func():
+	print("나도 숨쉬기 운동 좋아해👍")
+
+```
+
 ### 특기 🐷
 - 야무지게 먹기
 - 쌓여있는 설거지하기
@@ -26,6 +32,7 @@
 ### 취미🐸
 - Youtube 감상: 9월 첫째 주 iPad Youtube 스크린 타임 - 43시간
 - 웹툰 보기: 9월 첫째 주 iPad Naver Webtoon 스크린 타임 - 3시간 30분
+
 ```html
 <html>
 	<head>
