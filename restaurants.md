@@ -9,7 +9,7 @@
 ## Grandma's recipe
 - category: korean food
 - lacation: sundong-gu seoulsup2gil 44-12
-- [location in kakao map] (https://place.map.kakao.com/27373628)
+- [location in kakao map](https://place.map.kakao.com/27373628)
 - hash tags: date coure, lunch special
 
 ## Center coffee
